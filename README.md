@@ -45,9 +45,6 @@ Code reusability and clean architecture is implemented.
 
 ## Application Link and Future Scope
 
-Application can be accessed
-https://docs.google.com/document/d/1nUCsyCAelNkNy3SdeBmz8ok0hJpX3gjLzjNwzCoAPQk/edit?usp=sharing
-
 Currently the app takes data from a static data source and is unresponsive to the input given by the
 user. Future developments will include :
 
